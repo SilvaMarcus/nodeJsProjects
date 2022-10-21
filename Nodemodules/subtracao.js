@@ -5,4 +5,4 @@ const subtracao = (a,b) => {
 }
 
 
-
+module.exports = subtracao
