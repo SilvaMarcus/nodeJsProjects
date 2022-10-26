@@ -18,6 +18,4 @@ app.get('/ola/:nome/:profissao/', (req, res) => {
 
 
 
-
-
 app.listen(8081, () => console.log('Servidor rodando na url http://localhost:8081'));
